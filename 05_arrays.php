@@ -45,6 +45,10 @@
 // Associative arrays
 // ============================================
 
+
+
+$dics_in_php=['name'=>"Cyril","branch"=>"Cse","sem"=>"s6"];
+print_r($dics_in_php);
 // Create an associative array
 
 // Get element by key
