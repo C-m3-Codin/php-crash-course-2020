@@ -1,5 +1,9 @@
 <?php
 
+
+
+
+
 // Create array
 
 // Print the whole array
@@ -54,8 +58,16 @@
 // Print the keys of the array
 
 // Print the values of the array
+$a=["apple","banana","fruit"];
+$b=["cat","dog","rat"];
+var_dump([...$a,...$b]);
 
 // Sorting associative arrays by values, by keys
 
 
 // Two dimensional arrays
+
+
+
+
+?>
